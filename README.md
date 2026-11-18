@@ -17,6 +17,7 @@ Jenner Analytics handy little macro with inline python to convert any text file 
       4.  Macro
 
     Too long to post: see
+    https://tinyurl.com/5dzfdyek
     https://github.com/rogerjdeangelis/Jenner-Analytics-handy-little-macro-with-inline-python-to-convert-any-text-file-to-a-pdf
 
     /**************************************************************************************************************************/
@@ -40,6 +41,11 @@ Jenner Analytics handy little macro with inline python to convert any text file 
     ;;;;
     run;
 
+    /*---
+    d:/txt/adsl.txt
+    https://github.com/rogerjdeangelis/Jenner-Analytics-handy-little-macro-with-inline-python-to-convert-any-text-file-to-a-pdf/blob/main/adsl.txt
+    ---*/
+    
     /**************************************************************************************************************************/
     /* 2 PROCESS                                                                                                              */
     /**************************************************************************************************************************/
@@ -53,8 +59,11 @@ Jenner Analytics handy little macro with inline python to convert any text file 
     /* 3 OUTPUT                                                                                                               */
     /**************************************************************************************************************************/
 
+    /*---
     d:/pdf/adsl.pdf
-
+    https://github.com/rogerjdeangelis/Jenner-Analytics-handy-little-macro-with-inline-python-to-convert-any-text-file-to-a-pdf/blob/main/adsl.pdf
+    ---*/
+    
     /**************************************************************************************************************************/
     /* 4 MACROT                                                                                                               */
     /**************************************************************************************************************************/
