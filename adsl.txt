@@ -1,0 +1,12 @@
+proc format lib=library;
+ value
+   /     Major    Page Line             Major     Minor      Staistic     Process
+                  2     3   4      5    6         7          8            9
+   1  = "AGE      @Page @01 @Order @110 @AGE (y)  @N         @N           @MEANS"
+   2  = "AGE      @Page @01 @Order @120 @AGE (y)  @Mean(SD)  @Mean StdDev @MEANS"
+   3  = "AGE      @Page @01 @Order @130 @AGE (y)  @Median    @Median      @MEANS"
+   4  = "AGE      @Page @01 @Order @140 @AGE (y)  @Min, Max  @Min Max     @MEANS";
+ value AGEGR1N
+   2  = "AGEGR1N  @Page @01 @Order @210 @AGE (y)  @<65 yrs   @NPCT        @NPCT"
+   1  = "AGEGR1N  @Page @01 @Order @220 @AGE (y)  @65-80 yrs @NPCT        @NPCT"
+   3  = "AGEGR1N  @Page @01 @Order @230 @AGE (y)  @>80       @NPCT        @NPCT";
